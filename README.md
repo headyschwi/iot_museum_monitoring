@@ -26,6 +26,8 @@ O sistema é composto pelos seguintes componentes:
 7. Armazenamento: O banco de dados InfluxDB armazena todas as leituras dos sensores e eventos.
 8. Painel de Controle: O painel Grafana exibe os dados em tempo real, históricos e o consumo de energia.
 
+![image](https://github.com/user-attachments/assets/bc1e5a9a-4dc3-4f11-b0ff-d0aa676ec425)
+
 ## Tecnologias Utilizadas
 
 - Python: Linguagem de programação principal utilizada para simular as salas, processar dados e gerenciar a comunicação.
